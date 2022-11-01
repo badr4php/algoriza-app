@@ -10,6 +10,7 @@ Features:
 To avoid compatibility issues please use php 8.1
 - `git clone`
 - `composer install`
+- `cp .env.example .env`
 - set database credentials
 - `php artisan migrate`
 - `php artisan db:seed`
